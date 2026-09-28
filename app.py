@@ -1,2 +1,2 @@
 name = imput("jak se jmenujes")
-#print("ahoj")
+print("ahoj " + name)
