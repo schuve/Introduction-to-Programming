@@ -1,5 +1,9 @@
 # Základy programování (PROGINTRO)
 
+#spuštení
+program spustíte příkazem v bash:
+python app.py
+
 ## Témata
 
 1. [Kompilace a verzování](topics/01-compilation-versioning-ides/README.md)
